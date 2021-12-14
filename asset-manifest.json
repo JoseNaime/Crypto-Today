@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JoseNaime/Crypto-Today/static/css/main.a167913c.chunk.css",
-    "main.js": "/JoseNaime/Crypto-Today/static/js/main.d437145f.chunk.js",
-    "main.js.map": "/JoseNaime/Crypto-Today/static/js/main.d437145f.chunk.js.map",
+    "main.js": "/JoseNaime/Crypto-Today/static/js/main.4014b094.chunk.js",
+    "main.js.map": "/JoseNaime/Crypto-Today/static/js/main.4014b094.chunk.js.map",
     "runtime-main.js": "/JoseNaime/Crypto-Today/static/js/runtime-main.00c41d45.js",
     "runtime-main.js.map": "/JoseNaime/Crypto-Today/static/js/runtime-main.00c41d45.js.map",
     "static/js/2.69c3a427.chunk.js": "/JoseNaime/Crypto-Today/static/js/2.69c3a427.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.00c41d45.js",
     "static/js/2.69c3a427.chunk.js",
     "static/css/main.a167913c.chunk.css",
-    "static/js/main.d437145f.chunk.js"
+    "static/js/main.4014b094.chunk.js"
   ]
 }
