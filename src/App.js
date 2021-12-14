@@ -37,7 +37,11 @@ function App() {
         // Fetch using state.fetchUrl
         const config = {
             method: 'get',
-            baseURL: 'https://api.coincap.io/v2/assets'
+            baseURL: state.fetchUrl,
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest'
+            }
         }
         const _res = await axios.request(config)
         setRes(_res.data);
