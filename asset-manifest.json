@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/JoseNaime/Crypto-Today/static/css/main.a167913c.chunk.css",
-    "main.js": "/JoseNaime/Crypto-Today/static/js/main.4014b094.chunk.js",
-    "main.js.map": "/JoseNaime/Crypto-Today/static/js/main.4014b094.chunk.js.map",
-    "runtime-main.js": "/JoseNaime/Crypto-Today/static/js/runtime-main.00c41d45.js",
-    "runtime-main.js.map": "/JoseNaime/Crypto-Today/static/js/runtime-main.00c41d45.js.map",
-    "static/js/2.69c3a427.chunk.js": "/JoseNaime/Crypto-Today/static/js/2.69c3a427.chunk.js",
-    "static/js/2.69c3a427.chunk.js.map": "/JoseNaime/Crypto-Today/static/js/2.69c3a427.chunk.js.map",
-    "index.html": "/JoseNaime/Crypto-Today/index.html",
-    "static/css/main.a167913c.chunk.css.map": "/JoseNaime/Crypto-Today/static/css/main.a167913c.chunk.css.map",
-    "static/js/2.69c3a427.chunk.js.LICENSE.txt": "/JoseNaime/Crypto-Today/static/js/2.69c3a427.chunk.js.LICENSE.txt"
+    "main.css": "/Crypto-Today/static/css/main.a167913c.chunk.css",
+    "main.js": "/Crypto-Today/static/js/main.4014b094.chunk.js",
+    "main.js.map": "/Crypto-Today/static/js/main.4014b094.chunk.js.map",
+    "runtime-main.js": "/Crypto-Today/static/js/runtime-main.e761d1e0.js",
+    "runtime-main.js.map": "/Crypto-Today/static/js/runtime-main.e761d1e0.js.map",
+    "static/js/2.69c3a427.chunk.js": "/Crypto-Today/static/js/2.69c3a427.chunk.js",
+    "static/js/2.69c3a427.chunk.js.map": "/Crypto-Today/static/js/2.69c3a427.chunk.js.map",
+    "index.html": "/Crypto-Today/index.html",
+    "static/css/main.a167913c.chunk.css.map": "/Crypto-Today/static/css/main.a167913c.chunk.css.map",
+    "static/js/2.69c3a427.chunk.js.LICENSE.txt": "/Crypto-Today/static/js/2.69c3a427.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00c41d45.js",
+    "static/js/runtime-main.e761d1e0.js",
     "static/js/2.69c3a427.chunk.js",
     "static/css/main.a167913c.chunk.css",
     "static/js/main.4014b094.chunk.js"
