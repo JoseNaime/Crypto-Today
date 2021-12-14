@@ -13,9 +13,6 @@ npm install
 npm start
 ```
 
-[![ATM](http://i3.ytimg.com/vi/X_lk3v4jkdI/maxresdefault.jpg)](https://youtu.be/X_lk3v4jkdI "ATM")
-**Click the image to watch video**
-
 ## Roadmap
 > V1.0
 - Top 100 cryptocurrencies
