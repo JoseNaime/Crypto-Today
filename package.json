@@ -2,7 +2,7 @@
   "name": "crypto-today",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JoseNaime/Crypto-Today",
+  "homepage": "https://josenaime.github.io/Crypto-Today/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
